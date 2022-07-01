@@ -1941,7 +1941,7 @@ private: System::Windows::Forms::ToolStripMenuItem^ toolStripMenuItem69;
 	}
 	private: System::Void darkToolStripMenuItem_Click(System::Object^ sender, System::EventArgs^ e)
 	{
-		calculatorform::ActiveForm->BackgroundImage = Image::FromFile("C:/Users/veniz/Desktop/calculator_ali_babarahaei/5.png");
+		calculatorform::ActiveForm->BackgroundImage = Image::FromFile("4.png");
 
 
 
@@ -3138,19 +3138,19 @@ private: System::Void toolStripMenuItem66_Click(System::Object^ sender, System::
 private: System::Void calculatorform_Load(System::Object^ sender, System::EventArgs^ e) {
 }
 private: System::Void TSThemelight_Click(System::Object^ sender, System::EventArgs^ e) {
-	calculatorform::ActiveForm->BackgroundImage = Image::FromFile("C:/Users/veniz/Desktop/calculator_ali_babarahaei/1.png");
+	calculatorform::ActiveForm->BackgroundImage = Image::FromFile("1.png");
 }
 private: System::Void toolStripMenuItem67_Click(System::Object^ sender, System::EventArgs^ e)
 {
-	calculatorform::ActiveForm->BackgroundImage = Image::FromFile("C:/Users/veniz/Desktop/calculator_ali_babarahaei/2.png");
+	calculatorform::ActiveForm->BackgroundImage = Image::FromFile("2.png");
 }
 private: System::Void toolStripMenuItem68_Click(System::Object^ sender, System::EventArgs^ e) 
 {
-	calculatorform::ActiveForm->BackgroundImage = Image::FromFile("C:/Users/veniz/Desktop/calculator_ali_babarahaei/3.png");
+	calculatorform::ActiveForm->BackgroundImage = Image::FromFile("3.png");
 }
 private: System::Void toolStripMenuItem69_Click(System::Object^ sender, System::EventArgs^ e)
 {
-	calculatorform::ActiveForm->BackgroundImage = Image::FromFile("C:/Users/veniz/Desktop/calculator_ali_babarahaei/4.png");
+	calculatorform::ActiveForm->BackgroundImage = Image::FromFile("5.png");
 }
 };
 }

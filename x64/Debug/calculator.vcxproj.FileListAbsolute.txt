@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\calculator-master\x64\Debug\calculator.vcxproj.AssemblyReference.cache
+C:\Users\user\Desktop\calculator-master\x64\Debug\calculator.calculatorform.resources
+C:\Users\user\Desktop\calculator-master\x64\Debug\calculator.vcxproj.GenerateResource.cache
+C:\Users\user\Desktop\calculator-master\x64\Debug\calculator.exe
